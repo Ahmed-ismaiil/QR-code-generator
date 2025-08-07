@@ -16,4 +16,3 @@ img=qr.make_image(fill_color="black",back_color="white")
 qrname=input("please enter the name of the file to save\n")
 img.save("qrname.png")
 print("✅ QR code Generated")
-## version test 
